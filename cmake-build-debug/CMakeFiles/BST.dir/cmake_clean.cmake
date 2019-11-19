@@ -1,5 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/BST.dir/BST312.cpp.o"
   "CMakeFiles/BST.dir/main.cpp.o"
   "BST.pdb"
   "BST"

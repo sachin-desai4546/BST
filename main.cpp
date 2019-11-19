@@ -28,7 +28,7 @@ int main() {
    
     string s;
     inFile >> s;
-    while (inFile) {;
+    while (inFile) {
         cout << "inserting ... " << s << endl;
         bst.insertItem(s);
         inFile >> s;

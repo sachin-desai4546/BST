@@ -7,5 +7,4 @@ include_directories(.)
 
 add_executable(BST
         BST312.h
-        BST312.cpp
         main.cpp)
